@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Wilson Desimini"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Wilson Desimini"
+description              : "Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Wilson Desimini"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Software Development Portfolio"
+  location         : "San Diego, CA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -111,7 +111,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "wdesimini"
   gitlab           :
   google_plus      :
   keybase          :
@@ -120,7 +120,7 @@ author:
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : "10582681/wilson-desimini"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
@@ -267,3 +267,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  #_pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
