@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Wilson Desimini"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/wilson desimini_021688_@.jpg"
   bio              : "Software Development Portfolio"
   location         : "San Diego, CA"
   email            :
