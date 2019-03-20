@@ -1,8 +1,7 @@
 ---
-layout: archive
-permalink: /sample-code-zoo-app/
 title: "San Diego Zoo Sample App"
+permalink: /sample-code-zoo-app/
 author_profile: true
 header:
-	image: "/images/Splash Logo.jpg"
+  image: "/images/Splash Logo.jpg"
 ---
