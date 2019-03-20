@@ -2,5 +2,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "San Diego Zoo Sample App"
-    url: /sample-code-zoo-app/
+  - title: "Swift"
+    url: /swift-programming/

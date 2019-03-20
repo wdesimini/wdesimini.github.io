@@ -1,7 +1,11 @@
 ---
-title: "San Diego Zoo Sample App"
-permalink: /sample-code-zoo-app/
+title: "Swift"
+permalink: /swift-programming/
 author_profile: true
-header:
-  image: "/images/Splash Logo.jpg"
 ---
+
+Project's I've made:
+
+* San Diego Zoo Sample App
+* Thanks for the Invite!
+* Coffee rewards card App
