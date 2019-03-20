@@ -6,5 +6,3 @@ author_profile: true
 header:
 	image: "/images/zoo_SplashLogo.png"
 ---
-
-This is where the zoo app code will go
