@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "San Diego Zoo Sample App"
-    url: /sample-code-zoo-app/
+    url: https://wdesimini.github.io/sample-code-zoo-app/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
