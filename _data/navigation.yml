@@ -3,12 +3,4 @@ main:
   - title: "About"
     url: /about/
   - title: "San Diego Zoo Sample App"
-    url: https://wdesimini.github.io/sample-code-zoo-app/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /sample-code-zoo-app/
