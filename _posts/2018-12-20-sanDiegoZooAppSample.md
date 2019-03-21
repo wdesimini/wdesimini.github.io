@@ -1,15 +1,11 @@
 ---
 title: "Sample - San Diego Zoo App"
-date: 2018-01-28
+date: 2018-12-20
 tags: [swift, iOS, MapKit]
-<!-- permalink: /sample-san-diego-zoo/ -->
-<!-- author_profile: true -->
 header:
   image: "/images/Splash Logo.jpg"
 excerpt: "MapKit, Data Filtering, Subclassing"
 ---
-
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/Splash Logo.jpg" alt="linearly separable data"> -->
 
 ## Sample - San Diego Zoo App
 
