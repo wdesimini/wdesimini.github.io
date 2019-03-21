@@ -13,6 +13,8 @@ In this personal project, I used a Firebase backend and a system of remote notif
 
 For more information, you can visit the [TFTI webpage](https://tftiapplication.wordpress.com/).
 
+To download Thanks for the Invite for free, visit [its page in the App Store](https://itunes.apple.com/us/app/thanks-for-the-invite/id1453779045?ls=1&mt=8).
+
 Sample Code:
 
 Phone Number Verfication ViewController subclass (including textfield, "login" and "resend" buttons):
