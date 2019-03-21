@@ -18,7 +18,7 @@ This sample includes the following features:
 * Method to adjust mapView region if user tries to move outside zoo bounds
 * MKOverlay rendering (tiles, MKPolylines, custom MKAnnotationViews for each type of zoo object)
 * UIPickerView to filter map points by area
-* DropDown table to filter map points by type
+* [DropDown](https://github.com/AssistoLab/DropDown)? table to filter map points by type
 
 ### Home Tab
 

@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/ocean.jpg"
+  image: "/images/sandiego-pacificbeach-banner.jpg"
 ---
 
 I'm an iOS developer based in San Diego.
