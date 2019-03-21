@@ -9,11 +9,11 @@ excerpt: "Firebase, MapKit, NSNotificationCenter"
 
 Thanks for the Invite! is a location-based application that allows you to track friend groups, find out when they’re all in the same place without you. If a group is all in one place and you aren’t, you will receive a notification from the app noting which group left without you and give you the option to send a text with a screen capture of everyone’s relative location.
 
-In this personal project, I used a Firebase backend and a system of remote notifications. These two enable users to track each other's phones (while app is backgrounded or active) as well as request each other's locations. An Example of UI subclasses I used can be shown in the The Group Detail Controller map, which features custom MKAnnotationViews, Callout Views, MKClusterAnnotationViews. 
+In this project, I used a Firebase backend and a system of remote notifications. These two enable users to track each other's phones (while app is backgrounded or active) as well as request each other's locations. An Example of UI subclasses I used can be shown in the app's detail maps, which feature custom Callout Views, custom MKAnnotationViews, and custom MKClusterAnnotationViews. 
 
-For more information, you can visit the [TFTI webpage](https://tftiapplication.wordpress.com/).
+For more information, please visit the [TFTI webpage](https://tftiapplication.wordpress.com/).
 
-To download Thanks for the Invite for free, visit [its page in the App Store](https://itunes.apple.com/us/app/thanks-for-the-invite/id1453779045?ls=1&mt=8).
+To download Thanks for the Invite! for free, visit [its page in the App Store](https://itunes.apple.com/us/app/thanks-for-the-invite/id1453779045?ls=1&mt=8).
 
 Sample Code:
 
