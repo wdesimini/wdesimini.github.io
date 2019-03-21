@@ -7,7 +7,7 @@ header:
 excerpt: "Firebase, MapKit, NSNotificationCenter"
 ---
 
-They Left Without You is a location-based application that allows you to track friend groups, find out when they’re all in the same place without you. If a group is all in one place and you aren’t, you will receive a notification from the app noting which group left without you and give you the option to send a text with a screen capture of everyone’s relative location.
+Thanks for the Invite! is a location-based application that allows you to track friend groups, find out when they’re all in the same place without you. If a group is all in one place and you aren’t, you will receive a notification from the app noting which group left without you and give you the option to send a text with a screen capture of everyone’s relative location.
 
 In this personal project, I used a Firebase backend and a system of remote notifications. These two enable users to track each other's phones (while app is backgrounded or active) as well as request each other's locations. An Example of UI subclasses I used can be shown in the The Group Detail Controller map, which features custom MKAnnotationViews, Callout Views, MKClusterAnnotationViews. 
 
