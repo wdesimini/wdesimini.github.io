@@ -44,6 +44,8 @@ This sample includes the following features:
 
 ## Sample Code:
 
+Link to the git repository: [click here](https://github.com/wdesimini/SanDiegoZooSample)
+
 GestureRecognizer subclass:
 
 ```swift
