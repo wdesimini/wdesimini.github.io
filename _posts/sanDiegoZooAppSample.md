@@ -1,20 +1,16 @@
 ---
-title: "Swift"
-permalink: /swift-programming/
+title: "Sample - San Diego Zoo App"
+permalink: /sample-san-diego-zoo/
 author_profile: true
+header:
+  image: "/images/Splash Logo.jpg"
 ---
 
-Project's I've made:
-
-* San Diego Zoo Sample App
-* Thanks for the Invite!
-* Coffee rewards card App
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/Splash Logo.jpg" alt="linearly separable data">
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/Splash Logo.jpg" alt="linearly separable data"> -->
 
 ## Sample - San Diego Zoo App
 
-This app displays a sample format for an app to use at the San Diego Zoo. It includes a tab bar controller with home, map, and search tabs.
+This app displays a sample format for a map-oriented tab bar application. It includes a tab bar controller with home, map, and search tabs.
 
 This sample includes the following features:
 
