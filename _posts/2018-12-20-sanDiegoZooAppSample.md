@@ -18,7 +18,7 @@ This sample includes the following features:
 * Method to adjust mapView region if user tries to move outside zoo bounds
 * MKOverlay rendering (tiles, MKPolylines, custom MKAnnotationViews for each type of zoo object)
 * UIPickerView to filter map points by area
-* [DropDown](https://github.com/AssistoLab/DropDown)? table to filter map points by type
+* [DropDown](https://github.com/AssistoLab/DropDown) table to filter map points by type
 
 ### Home Tab
 
@@ -38,6 +38,11 @@ This sample includes the following features:
 * UITableViewCell subclass with Programmatic UI
 * ObjectDetailViewController with Programmatic UI
 
+## Screenshots
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/zoo-screenshots.png" alt="linearly separable data">
+
+## Sample Code:
 
 GestureRecognizer subclass:
 
