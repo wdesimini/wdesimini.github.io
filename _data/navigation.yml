@@ -2,5 +2,5 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Swift"
-    url: /swift-programming/
+  - title: "Swift Projects"
+    url: /swift-projects/
