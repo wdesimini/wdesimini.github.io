@@ -3,13 +3,11 @@ title: "Sample - San Diego Zoo App"
 date: 2018-12-20
 tags: [swift, iOS, MapKit]
 header:
-  image: "/images/Splash Logo.jpg"
+  image: "/images/Splash Logo.png"
 excerpt: "MapKit, Data Filtering, Subclassing"
 ---
 
-## Sample - San Diego Zoo App
-
-This app displays a sample format for a map-oriented tab bar application. It includes a tab bar controller with home, map, and search tabs.
+This app displays a sample format for a map-oriented tab bar application. It includes a tab bar controller with home, map, and search tabs. The banner image of this page is the splash screen of the app and was created in Photoshop.
 
 This sample includes the following features:
 
