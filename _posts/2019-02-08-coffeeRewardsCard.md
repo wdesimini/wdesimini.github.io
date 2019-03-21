@@ -7,11 +7,11 @@ header:
 excerpt: "AVFoundation, QR Code Scanning"
 ---
 
-This app emulates a Coffee Shop punch card. It saves the number of punches locally to the device and adds punches through a QR Code scanner. Once all of the punches have been collected, the button begins to glow. At that point, the user can tap the coffee icon to display a message that states they've earned a free coffee. Once the user closes the message, the points revert to the same amount as before.
+This app emulates a coffee shop punch card. It saves the user's punch count locally to their device and adds punches through a QR Code scanner. Once all 10 punches have been collected, the coffee button in the top right of the card begins to glow. At that point, the user can tap the button to display a message that states they've earned a free cup of coffee. Once the user closes the message, their punch count reverts to the amount punches they have left after 10 punches are used.
 
 If you're interested in using an app similar to this for your local business, please email me at wdesimini8@gmail.com.
 
-If you'd like to see the repository, email me and request an invite to the [Bitbucket Repository](https://bitbucket.org/wilsondesimini/coffeecardapp/src/master/)
+If you'd like to read/contribute to the app, email me and request an invite to the [Bitbucket Repository](https://bitbucket.org/wilsondesimini/coffeecardapp/src/master/)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/coffeecard-screenshot.png" alt="linearly separable data">
 

@@ -13,3 +13,4 @@ Projects I've completed:
 
 * [Sample - San Diego Zoo App](https://wdesimini.github.io/sanDiegoZooAppSample/) (personal project)
 * [Thanks for the Invite!](https://tftiapplication.wordpress.com/) (personal project, available in the App Store)
+* [Sample - Coffee Rewards Card App](https://wdesimini.github.io/coffeeRewardsCard/) (personal project)
