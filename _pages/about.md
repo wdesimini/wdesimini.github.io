@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/sandiego-pointloma-banner.jpg"
+  image: "/images/portland_downtown_night.jpg"
 ---
 
 I'm an iOS developer based in Portland, currently working on the Point of Sale iOS app for Heartland Payment Systems.
