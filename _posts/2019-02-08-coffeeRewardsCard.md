@@ -2,8 +2,6 @@
 title: "Coffee Rewards Scanner App"
 date: 2019-02-08
 tags: [swift, iOS, AVFoundation]
-header:
-  image: "/images/sandiego-downtown-banner.jpg"
 excerpt: "AVFoundation, QR Code Scanning"
 ---
 

@@ -4,5 +4,5 @@ title: "Swift Projects"
 permalink: /swift-projects/
 author_profile: true
 header:
-  image: "/images/sandiego-downtown-banner.jpg"
+  image: "/images/portland_mt_hood.jpg"
 ---
