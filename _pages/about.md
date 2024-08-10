@@ -5,9 +5,7 @@ header:
   image: "/images/sandiego-pointloma-banner.jpg"
 ---
 
-I'm an iOS developer based in San Diego, currently working on the Point of Sale iOS app for Heartland Payment Systems.
-
-I have a particular focus in Firebase, Augmented Reality, MapKit and CoreLocation.
+I'm an iOS developer based in Portland, currently working on the Point of Sale iOS app for Heartland Payment Systems.
 
 Projects I've completed:
 
