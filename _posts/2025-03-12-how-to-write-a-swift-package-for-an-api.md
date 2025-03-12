@@ -5,8 +5,6 @@ tags: [swift, iOS, api, http, testing, async]
 excerpt: "A step-by-step guide to writing a Swift package for an API, using DogAPI as an example."
 ---
 
-# How to Write a Swift Package for an API
-
 When working with APIs in Swift, creating a dedicated Swift package can help modularize your code, making it reusable and testable. 
 
 This post details the process I use to extend a Swift package to support an additional API request, using the [Dog CEO API](https://dog.ceo/dog-api/) as an example. If you'd like to see a full implementation, you can visit my [DogAPI repo](https://github.com/wdesimini/DogAPI) on GitHub.
@@ -41,6 +39,8 @@ Before implementing the request, I usually like to write a unit test that outlin
 - Parses the expected data format correctly.
 
 Create a test in `DogAPITests` that passes the expected data of a successful response for the request URL into some mock `URLProtocol`, and verifies the returned value of the new request matches the expected output:
+
+*Note: In this example, `MockURLProtocol` and `URLSession.mock` are preexisting utilities used to stub network requests. See [DogAPI repo](https://github.com/wdesimini/DogAPI) for further details.*
 
 ```swift
 import XCTest
@@ -93,6 +93,8 @@ enum DogAPIEndpoint {
 
 Go back to the `DogAPI` and modify the method added earlier to fetch from the new endpoint using the `DogAPIClient`:
 
+*Note: In this example, `DogAPIClient` receives the endpoint, builds the URL from the endpoint, executes the request using a given `URLSession`, and parses the response. See [DogAPI repo](https://github.com/wdesimini/DogAPI) for further details and implementation.*
+
 ```swift
 import Foundation
 
@@ -110,8 +112,6 @@ public struct DogAPI {
     }
 }
 ```
-
-Note: `DogAPIClient` receives the endpoint, builds the URL, executes the request using a given `URLSession`, and parses the response. See [DogAPI repo](https://github.com/wdesimini/DogAPI) for further details.
 
 ## 5. Run the Test and Verify
 
